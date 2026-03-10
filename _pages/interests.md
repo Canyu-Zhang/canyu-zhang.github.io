@@ -16,7 +16,7 @@ Outside of research, I spend a lot of time on music and art.
 I have been playing cello since I was young and have passed multiple ABRSM examinations. I enjoy both classical solo repertoire and chamber music.
 
 <div class="row mt-3">
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/cello.jpg" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
@@ -33,21 +33,4 @@ I sing in the a cappella group at NYU Shanghai. A cappella is all about blending
   </div>
 </div>
 
----
 
-## 🖌️ Calligraphy & Painting
-
-I practice Chinese calligraphy and ink painting. I find the discipline of calligraphy — controlling brush pressure, speed, and rhythm — surprisingly similar to the kind of precision required in good engineering.
-
-<div class="row mt-3">
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <div style="background:#f0f0f0; height:260px; display:flex; align-items:center; justify-content:center; border-radius:8px; color:#999;">
-      📷 Coming soon
-    </div>
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    <div style="background:#f0f0f0; height:260px; display:flex; align-items:center; justify-content:center; border-radius:8px; color:#999;">
-      📷 Coming soon
-    </div>
-  </div>
-</div>

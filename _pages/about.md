@@ -23,12 +23,18 @@ latest_posts:
   enabled: false
 ---
 
-I am a junior at **NYU Shanghai** studying Computer Science (GPA: 3.91/4.0). My research focuses on **efficient AI systems** — specifically on making large language models faster and more capable under real-world constraints such as long-context inference, retrieval-augmented generation, and memory efficiency.
+Hi! I am a junior at NYU Shanghai studying Computer Science (GPA: 3.91/4.0). I’m interested in building efficient and scalable AI systems that make large models more practical in real-world settings. I’m especially excited about the vision of enabling AI systems to better understand and interact with the real world, connecting advances in machine learning with applications in perception, reasoning, and intelligent agents.
 
-I have worked on KV cache recomputation ([InfoFlow KV](/publications/)), submodular context compression ([Sub-CP](/publications/)), and benchmarking deep research agents ([SAGE](/publications/)). I am broadly interested in:
+I am currently conducting research at NYU Shanghai, advised by <a href="https://shanghai.nyu.edu/academics/faculty/directory/shengjie-wang" target="_blank">Shengjie Wang</a>. My work explores methods for improving the efficiency and scalability of large AI systems, including projects on KV cache recomputation (InfoFlow KV
+) and submodular context compression (Sub-CP
+). 
 
-- **Efficient LLM inference** — KV cache management, attention approximation, speculative decoding
-- **Retrieval-Augmented Generation (RAG)** — context selection, dense retrieval, test-time scaling
-- **Embodied AI & Robotics** — I am excited about connecting efficient perception and reasoning to physical systems, particularly robot manipulation and navigation grounded in vision-language models
+My current interests include:
 
-I am currently looking for research internship and PhD opportunities starting 2027. Feel free to reach out!
+Efficient LLM inference — KV cache management, attention approximation, and speculative decoding for scalable long-context reasoning
+
+Multimodal AI & Computer Vision — exploring how vision-language models can support richer perception and reasoning
+
+Embodied AI & Intelligent Agents — connecting perception, reasoning, and action in interactive environments
+
+I’m always excited to explore new ideas across these areas. I am currently looking for research internships and PhD opportunities starting in 2027. Feel free to reach out!

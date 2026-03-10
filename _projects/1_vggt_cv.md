@@ -9,6 +9,10 @@ category: course
 
 **Course Project** — Computer Vision, NYU Shanghai (Prof. Saining Xie) &nbsp;|&nbsp; Sep. 2025 – Dec. 2025
 
+<a href="/assets/pdf/computer_vision_project.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">
+  <i class="fa-solid fa-file-pdf"></i> &nbsp; Project Report (PDF)
+</a>
+
 ---
 
 ### Overview
