@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>📧 <a href="mailto:cz3000@nyu.edu">cz3000@nyu.edu</a></p>
     <p>📍 New York, NY</p>
-    <p>🎓 <a href="https://scholar.google.com/citations?hl=en&user=cz3000" target="_blank">Google Scholar</a></p>
+    <p>🎓 <a href="https://scholar.google.com/citations?user=_4Ho0CIAAAAJ" target="_blank">Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
