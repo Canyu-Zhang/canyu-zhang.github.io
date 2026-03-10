@@ -2,11 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects and course work.
 nav: true
 nav_order: 2
-display_categories: [course]
 horizontal: false
+---
+
+Research projects and course work.
 ---
 
 <!-- pages/projects.md -->
