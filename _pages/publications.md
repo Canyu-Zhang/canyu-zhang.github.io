@@ -2,19 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Research publications in reversed chronological order.
+description: Research publications and preprints.
 nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
+{% assign paper_projects = site.projects | where: "category", "paper" | sort: "importance" %}
+<div class="row row-cols-1 row-cols-md-2">
+{% for project in paper_projects %}
+  {% include projects.liquid %}
+{% endfor %}
 </div>
