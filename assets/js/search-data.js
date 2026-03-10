@@ -418,22 +418,22 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-decoding-vggt-features-in-3d-with-sparse-convolution",
           title: 'Decoding VGGT Features in 3D with Sparse Convolution',
-          description: "Course Project — Computer Vision (Prof. Saining Xie), NYU Shanghai · Sep – Dec 2025",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_vggt_cv/";
             },},{id: "projects-infoflow-kv-information-flow-aware-kv-recomputation-for-long-context",
           title: 'InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context',
-          description: "Preprint &amp;middot; Under review at ICML 2026 &amp;middot; Co-first author",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_infoflow_kv/";
             },},{id: "projects-submodular-context-partitioning-and-compression-for-in-context-learning",
           title: 'Submodular Context Partitioning and Compression for In-Context Learning',
-          description: "Preprint &amp;middot; arXiv 2025",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_subcp/";
             },},{id: "projects-sage-benchmarking-and-improving-retrieval-for-deep-research-agents",
           title: 'SAGE: Benchmarking and Improving Retrieval for Deep Research Agents',
-          description: "Preprint &amp;middot; Under review at ACL ARR 2026",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_sage/";
             },},{id: "teachings-data-science-fundamentals",
