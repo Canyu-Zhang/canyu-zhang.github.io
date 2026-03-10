@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "SAGE: Benchmarking and Improving Retrieval for Deep Research Agents"
-description: "Preprint &middot; Under review at ACL ARR 2026"
 importance: 3
 category: paper
 ---

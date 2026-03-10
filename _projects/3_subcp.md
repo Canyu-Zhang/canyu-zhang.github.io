@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Submodular Context Partitioning and Compression for In-Context Learning"
-description: "Preprint &middot; arXiv 2025"
 importance: 2
 category: paper
 ---

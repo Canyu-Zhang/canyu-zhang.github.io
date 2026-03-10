@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context"
-description: "Preprint &middot; Under review at ICML 2026 &middot; Co-first author"
 importance: 1
 category: paper
 ---

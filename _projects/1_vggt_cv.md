@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Decoding VGGT Features in 3D with Sparse Convolution
-description: Course Project — Computer Vision (Prof. Saining Xie), NYU Shanghai · Sep – Dec 2025
 img: assets/img/rhino.png
 importance: 1
 category: course
