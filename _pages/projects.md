@@ -8,6 +8,7 @@ horizontal: false
 ---
 
 Research projects and course work.
+
 ---
 
 <!-- pages/projects.md -->
