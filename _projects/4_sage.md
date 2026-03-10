@@ -6,13 +6,11 @@ importance: 3
 category: paper
 ---
 
-**Preprint** &nbsp;|&nbsp; Under review at ACL ARR 2026 &nbsp;|&nbsp; Sep. 2025 – Feb. 2026
+Tiansheng Hu, Yilun Zhao, **Canyu Zhang**, Arman Cohan, Chen Zhao
 
-*Research assistant. With Prof. Chen Zhao.*
+*Under review at ACL ARR 2026.*
 
-<a href="https://arxiv.org/abs/2602.05975" target="_blank" class="btn btn-sm z-depth-0" role="button">
-  <i class="fa-solid fa-file-lines"></i> &nbsp; arXiv
-</a>
+<a href="https://arxiv.org/abs/2602.05975" target="_blank" class="btn btn-sm z-depth-0" role="button">arXiv</a>
 
 ---
 
@@ -27,9 +25,3 @@ Deep research agents have emerged as powerful systems for addressing complex que
 - Built **SAGE**, a benchmark for reasoning-intensive scientific literature retrieval with **1,200 queries across four domains** and a **200K-paper corpus**, supporting short-form and open-ended questions.
 - Evaluated six deep research agents under both **web search and corpus retrieval settings**, revealing that BM25 outperforms LLM-based retrievers by **~30%** due to keyword-oriented sub-query generation.
 - Proposed a **corpus-level test-time scaling framework** that augments documents with metadata and keywords using LLMs, improving retrieval accuracy by **+8% (short-form)** and **+2% (open-ended)**.
-
----
-
-### Authors
-
-Tiansheng Hu, Yilun Zhao, **Canyu Zhang**, Arman Cohan, Chen Zhao
