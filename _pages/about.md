@@ -24,9 +24,9 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I am a junior at NYU Shanghai studying Computer Science (GPA: 3.91/4.0). I’m interested in building efficient and scalable AI systems that make large models more practical in real-world settings. I’m especially excited about the vision of enabling AI systems to better understand and interact with the real world, connecting advances in machine learning with applications in perception, reasoning, and intelligent agents.
+Hi! I am a junior at NYU Shanghai studying Computer Science (GPA: 3.91/4.0). I'm currently studying away at NYU in New York. I’m especially excited about the vision of enabling AI systems to better understand and interact with the real world, connecting advances in machine learning with applications in perception, reasoning, and intelligent agents.
 
-I am currently conducting research at NYU Shanghai, advised by <a href="https://shanghai.nyu.edu/academics/faculty/directory/shengjie-wang" target="_blank">Shengjie Wang</a>. My work explores methods for improving the efficiency and scalability of large AI systems, including projects on KV cache recomputation (<a href="https://arxiv.org/abs/2603.05353" target="_blank">InfoFlow KV</a><sup>*</sup>) and submodular context compression (<a href="https://arxiv.org/abs/2510.05130" target="_blank">Sub-CP</a>). <sup>*</sup><small>Equal contribution.</small> 
+I am currently conducting research advised by <a href="https://shanghai.nyu.edu/academics/faculty/directory/shengjie-wang" target="_blank">Shengjie Wang</a>. My work explores methods for improving the efficiency and scalability of large AI systems, including projects on KV cache recomputation (<a href="https://arxiv.org/abs/2603.05353" target="_blank">InfoFlow KV</a><sup>*</sup>) and submodular context compression (<a href="https://arxiv.org/abs/2510.05130" target="_blank">Sub-CP</a>). <sup>*</sup>
 
 My current interests include:
 
