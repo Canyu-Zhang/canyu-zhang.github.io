@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Curriculum Vitae",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -421,6 +421,21 @@ ninja.data = [{
           description: "Course Project — Computer Vision (Prof. Saining Xie), NYU Shanghai · Sep – Dec 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_vggt_cv/";
+            },},{id: "projects-infoflow-kv-information-flow-aware-kv-recomputation-for-long-context",
+          title: 'InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context',
+          description: "Preprint · Under review at ICML 2026 · Co-first author",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_infoflow_kv/";
+            },},{id: "projects-submodular-context-partitioning-and-compression-for-in-context-learning",
+          title: 'Submodular Context Partitioning and Compression for In-Context Learning',
+          description: "Preprint · arXiv 2025",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_subcp/";
+            },},{id: "projects-sage-benchmarking-and-improving-retrieval-for-deep-research-agents",
+          title: 'SAGE: Benchmarking and Improving Retrieval for Deep Research Agents',
+          description: "Preprint · Under review at ACL ARR 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_sage/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
