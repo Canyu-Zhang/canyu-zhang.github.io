@@ -2,12 +2,11 @@
 layout: page
 title: interests
 permalink: /interests/
-description: Beyond research — music, art, and more.
 nav: true
 nav_order: 4
 ---
 
-Outside of research, I spend a lot of time on music and art.
+Beyond research — music, art, and more.
 
 ---
 
