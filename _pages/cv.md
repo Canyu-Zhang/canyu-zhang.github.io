@@ -1,12 +1,16 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: /assets/pdf/Canyu_Zhang_Resume.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Curriculum Vitae
 ---
+
+<div class="d-flex justify-content-end mb-3">
+  <a href="/assets/pdf/Canyu_Zhang_Resume.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">
+    <i class="fa-solid fa-file-pdf"></i> &nbsp; Download PDF
+  </a>
+</div>
+
+<iframe src="/assets/pdf/Canyu_Zhang_Resume.pdf" width="100%" height="1000px" style="border: 1px solid #ddd; border-radius: 4px;"></iframe>

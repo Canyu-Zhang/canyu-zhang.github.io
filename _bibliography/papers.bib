@@ -1,36 +1,44 @@
 ---
 ---
 
-@inproceedings{zhang2026infoflow,
-  abbr        = {ICML},
+@article{teng2026infoflow,
+  abbr        = {ICML 2026*},
   bibtex_show = {true},
-  title       = {InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context},
-  author      = {Zhang, Canyu and Wang, Shengjie and Zhou, Tianyi and Zhuo, Danyang},
-  booktitle   = {International Conference on Machine Learning (ICML 2026)},
+  title       = {InfoFlow {KV}: Information-Flow-Aware {KV} Recomputation for Long Context},
+  author      = {Teng, Xin and Zhang, Canyu and Zheng, Shaoyi and Zhuo, Danyang and Zhou, Tianyi and Wang, Shengjie},
+  journal     = {arXiv preprint arXiv:2603.05353},
   year        = {2026},
-  note        = {*Co-first author},
-  abstract    = {We propose InfoFlow KV, a chunk-based KV prefilling and recomputation pipeline enabling reusable KV caches and recovering cross-chunk attention under long-context inference across multiple LLMs. We introduce two information-flow-aware recomputation strategies: a query-conditioned attention-norm token selection method and a chunk reordering scheme that improves prompt-context interaction, achieving +6% F1 on HotpotQA over prior methods.},
+  arxiv       = {2603.05353},
+  html        = {https://arxiv.org/abs/2603.05353},
+  note        = {*Co-first author. Under review at ICML 2026.},
+  abstract    = {Retrieval-augmented generation for long-context QA is bottlenecked by inference-time prefilling over large retrieved contexts. We propose InfoFlow KV, casting selective KV recomputation as an information flow problem. An attention-norm signal from the query identifies tokens that are both semantically relevant and structurally positioned to propagate information. We further introduce an information-flow-guided chunk reordering strategy, achieving consistent gains over prior methods on LLM and VLM benchmarks.},
   selected    = {true}
 }
 
-@article{zhang2025subcp,
-  abbr        = {preprint},
+@article{zheng2025subcp,
+  abbr        = {Preprint},
   bibtex_show = {true},
   title       = {Submodular Context Partitioning and Compression for In-Context Learning},
-  author      = {Zhang, Canyu and Wang, Shengjie and Zhou, Tianyi},
+  author      = {Zheng, Shaoyi and Zhang, Canyu and Zhou, Tianyi and Wang, Shengjie},
+  journal     = {arXiv preprint arXiv:2510.05130},
   year        = {2025},
-  abstract    = {We study Sub-CP, a block-aware context selection framework for in-context learning that leverages submodular objectives to balance global diversity and local coherence across demonstration context blocks. We achieve up to +7.1% average F1 score over baseline partition methods and +15.4% F1 score on TREC.},
+  arxiv       = {2510.05130},
+  html        = {https://arxiv.org/abs/2510.05130},
+  abstract    = {We propose Sub-CP, a block-aware context selection framework for in-context learning that leverages submodular objectives to control block diversity, balancing global diversity and local coherence. Extensive experiments show Sub-CP consistently improves performance across model scales, achieving up to +7.1% average F1 over baseline partition methods and +15.4% F1 on TREC.},
   selected    = {true}
 }
 
-@inproceedings{zhang2026sage,
-  abbr        = {ACL},
+@article{hu2026sage,
+  abbr        = {ACL 2026*},
   bibtex_show = {true},
-  title       = {SAGE: Benchmarking and Improving Retrieval for Deep Research Agents},
-  author      = {Zhang, Canyu and Zhao, Chen},
-  booktitle   = {Annual Meeting of the Association for Computational Linguistics (ACL 2026)},
+  title       = {{SAGE}: Benchmarking and Improving Retrieval for Deep Research Agents},
+  author      = {Hu, Tiansheng and Zhao, Yilun and Zhang, Canyu and Cohan, Arman and Zhao, Chen},
+  journal     = {arXiv preprint arXiv:2602.05975},
   year        = {2026},
-  abstract    = {We build SAGE, a benchmark for reasoning-intensive scientific literature retrieval with 1,200 queries across four domains and a 200K-paper corpus. We evaluate six deep research agents under both web search and corpus retrieval settings, and propose a corpus-level test-time scaling framework that improves retrieval accuracy by +8% (short-form) and +2% (open-ended).},
+  arxiv       = {2602.05975},
+  html        = {https://arxiv.org/abs/2602.05975},
+  note        = {Under review at ACL ARR 2026.},
+  abstract    = {We introduce SAGE, a benchmark for scientific literature retrieval with 1,200 queries across four domains and a 200K-paper corpus. We evaluate six deep research agents and find BM25 outperforms LLM-based retrievers by ~30%. We propose a corpus-level test-time scaling framework that augments documents with metadata and keywords, yielding +8% and +2% gains on short-form and open-ended questions.},
   selected    = {true}
 }
 
