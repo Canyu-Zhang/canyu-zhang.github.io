@@ -6,9 +6,9 @@ importance: 3
 category: paper
 ---
 
-Tiansheng Hu, Yilun Zhao, **Canyu Zhang**, Arman Cohan, Chen Zhao
+**Preprint** &nbsp;|&nbsp; Under review at ACL ARR 2026 &nbsp;|&nbsp; Sep. 2025 – Feb. 2026
 
-*Under review at ACL ARR 2026.*
+*Research assistant. With Prof. Chen Zhao.*
 
 <a href="https://arxiv.org/abs/2602.05975" target="_blank" class="btn btn-sm z-depth-0" role="button">arXiv</a>
 

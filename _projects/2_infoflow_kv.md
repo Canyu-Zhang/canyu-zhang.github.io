@@ -6,9 +6,9 @@ importance: 1
 category: paper
 ---
 
-Xin Teng<sup>*</sup>, **Canyu Zhang**<sup>*</sup>, Shaoyi Zheng, Danyang Zhuo, Tianyi Zhou, Shengjie Wang
+**Preprint** &nbsp;|&nbsp; Under review at ICML 2026 &nbsp;|&nbsp; Jun. 2025 – Feb. 2026
 
-*Under review at ICML 2026. &nbsp;\*Equal contribution.*
+*\*Co-first author. With Prof. Shengjie Wang, Prof. Tianyi Zhou, and Prof. Danyang Zhuo.*
 
 <a href="https://arxiv.org/abs/2603.05353" target="_blank" class="btn btn-sm z-depth-0" role="button">arXiv</a>
 

@@ -1,8 +1,8 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/Canyu_Zhang_Resume.pdf # path to your CV PDF file
-email: cz3000@nyu.edu # your email address
-github_username: Canyu-Zhang # your GitHub username
-# scholar_userid: # add your Google Scholar ID here once you have one
-rss_icon: false # comment this line to hide the RSS icon
+# cv_pdf: /assets/pdf/Canyu_Zhang_Resume.pdf
+# email: cz3000@nyu.edu
+# github_username: Canyu-Zhang
+# scholar_userid:
+rss_icon: false

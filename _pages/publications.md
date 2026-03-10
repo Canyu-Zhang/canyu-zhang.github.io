@@ -2,17 +2,19 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Click on a title to see details.
+description:
 nav: true
 nav_order: 1
 ---
+
+<p style="font-size:1.05rem; color:var(--global-text-color-light,#666); margin-bottom:1.5rem;">Click on a title to see details.</p>
 
 <div class="publications-list">
 
 <div class="pub-entry">
   <a class="pub-title" href="/projects/2_infoflow_kv/">InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context</a>
   <div class="pub-links">[<a href="https://arxiv.org/abs/2603.05353" target="_blank">Paper</a>]</div>
-  <div class="pub-meta">[Preprint] Xin Teng<sup>*</sup>, <strong>Canyu Zhang</strong><sup>*</sup>, Shaoyi Zheng, Danyang Zhuo, Tianyi Zhou, Shengjie Wang &nbsp;&middot;&nbsp; <em>Under review at ICML 2026</em></div>
+  <div class="pub-meta">[Preprint] Xin Teng<sup>*</sup>, <strong>Canyu Zhang</strong><sup>*</sup>, Shaoyi Zheng<sup>*</sup>, Danyang Zhuo, Tianyi Zhou, Shengjie Wang &nbsp;&middot;&nbsp; <em>Under review at ICML 2026</em></div>
 </div>
 
 <div class="pub-entry">
@@ -45,7 +47,7 @@ a.pub-title {
   font-size: 1.05rem;
   font-weight: 600;
   color: var(--global-theme-color);
-  text-decoration: none;
+  text-decoration: underline;
   margin-bottom: 0.2rem;
 }
 a.pub-title:hover { text-decoration: underline; }

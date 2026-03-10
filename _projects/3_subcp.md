@@ -6,9 +6,9 @@ importance: 2
 category: paper
 ---
 
-Shaoyi Zheng, **Canyu Zhang**, Tianyi Zhou, Shengjie Wang
+**Preprint** &nbsp;|&nbsp; arXiv 2025 &nbsp;|&nbsp; Mar. 2025 – Aug. 2025
 
-*Preprint, 2025.*
+*Research assistant. With Prof. Shengjie Wang and Prof. Tianyi Zhou.*
 
 <a href="https://arxiv.org/abs/2510.05130" target="_blank" class="btn btn-sm z-depth-0" role="button">arXiv</a>
 
