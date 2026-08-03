@@ -14,7 +14,7 @@ nav_order: 1
 <div class="pub-entry">
   <a class="pub-title" href="/projects/2_infoflow_kv/">InfoFlow KV: Information-Flow-Aware KV Recomputation for Long Context</a>
   <div class="pub-links">[<a href="https://arxiv.org/abs/2603.05353" target="_blank">Paper</a>]</div>
-  <div class="pub-meta">[Preprint] Xin Teng<sup>*</sup>, <strong>Canyu Zhang</strong><sup>*</sup>, Shaoyi Zheng<sup>*</sup>, Danyang Zhuo, Tianyi Zhou, Shengjie Wang &nbsp;&middot;&nbsp; <em>Under review at ICML 2026</em></div>
+  <div class="pub-meta">[ICML 2026] Xin Teng<sup>*</sup>, <strong>Canyu Zhang</strong><sup>*</sup>, Shaoyi Zheng<sup>*</sup>, Danyang Zhuo, Tianyi Zhou, Shengjie Wang &nbsp;&middot;&nbsp; <em>Accepted at ICML 2026</em></div>
 </div>
 
 <div class="pub-entry">

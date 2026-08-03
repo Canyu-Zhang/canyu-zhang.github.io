@@ -5,7 +5,7 @@ importance: 1
 category: paper
 ---
 
-**Preprint** &nbsp;|&nbsp; Under review at ICML 2026 &nbsp;|&nbsp; Jun. 2025 – Feb. 2026
+**ICML 2026** &nbsp;|&nbsp; Accepted at ICML 2026 &nbsp;|&nbsp; Jun. 2025 – Feb. 2026
 
 *\*Co-first author. With Prof. Shengjie Wang, Prof. Tianyi Zhou, and Prof. Danyang Zhuo.*
 
