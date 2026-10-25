@@ -32,9 +32,7 @@ My current interests include:
 
 Efficient LLM inference — KV cache management, attention approximation, and speculative decoding for scalable long-context reasoning
 
-Generative models
-
-Multimodal AI & Computer Vision — exploring how vision-language models can support richer perception and reasoning
+Multimodal & Generative Models — exploring how vision-language models and video generative models can support richer perception, reasoning, and visual memory
 
 Embodied AI & Intelligent Agents — connecting perception, reasoning, and action in interactive environments
 
