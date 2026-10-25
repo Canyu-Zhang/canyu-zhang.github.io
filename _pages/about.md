@@ -24,13 +24,15 @@ latest_posts:
   enabled: false
 ---
 
-Hi! I am a junior at NYU Shanghai studying Computer Science (GPA: 3.91/4.0). I'm currently studying away at NYU in New York. I’m especially excited about the vision of enabling AI systems to better understand and interact with the real world, connecting advances in machine learning with applications in perception, reasoning, and intelligent agents.
+Hi! I am a senior at NYU Shanghai studying Computer Science (GPA: 3.93/4.0). I'm currently studying away at NYU in New York. I’m especially excited about the vision of enabling AI systems to better understand and interact with the real world, connecting advances in machine learning with applications in perception, reasoning, and intelligent agents.
 
-I am currently conducting research advised by <a href="https://shanghai.nyu.edu/academics/faculty/directory/shengjie-wang" target="_blank">Shengjie Wang</a>. My work explores methods for improving the efficiency and scalability of large AI systems, including projects on KV cache recomputation (<a href="https://arxiv.org/abs/2603.05353" target="_blank">InfoFlow KV</a><sup>*</sup>) and submodular context compression (<a href="https://arxiv.org/abs/2510.05130" target="_blank">Sub-CP</a>). 
+I am currently working with two advisors. With <a href="https://shanghai.nyu.edu/academics/faculty/directory/shengjie-wang" target="_blank">Shengjie Wang</a>, my work explores methods for improving the efficiency and scalability of large AI systems, including projects on KV cache recomputation (<a href="https://arxiv.org/abs/2603.05353" target="_blank">InfoFlow KV</a><sup>*</sup>, ICML 2026) and submodular context compression (<a href="https://arxiv.org/abs/2510.05130" target="_blank">Sub-CP</a>). With <a href="https://mengyeren.com" target="_blank">Mengye Ren</a>, I am exploring how video generative models can serve as a form of visual memory.
 
 My current interests include:
 
 Efficient LLM inference — KV cache management, attention approximation, and speculative decoding for scalable long-context reasoning
+
+Generative models
 
 Multimodal AI & Computer Vision — exploring how vision-language models can support richer perception and reasoning
 
