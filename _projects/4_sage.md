@@ -5,7 +5,7 @@ importance: 3
 category: paper
 ---
 
-**Preprint** &nbsp;|&nbsp; Under review at ACL ARR 2026 &nbsp;|&nbsp; Sep. 2025 – Feb. 2026
+**Preprint** &nbsp;|&nbsp; Under review at EACL 2027 &nbsp;|&nbsp; Sep. 2025 – Feb. 2026
 
 *Research assistant. With Prof. Chen Zhao.*
 

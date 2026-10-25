@@ -54,7 +54,7 @@ cv:
         location: Shanghai, China
         start_date: 2025-09
         end_date: 2026-02
-        summary: "SAGE: Benchmarking and Improving Retrieval for Deep Research Agents (ACL 2026)"
+        summary: "SAGE: Benchmarking and Improving Retrieval for Deep Research Agents (EACL 2027, under review)"
         highlights:
           - Built SAGE, a benchmark with 1,200 queries across four domains and a 200K-paper corpus.
           - Proposed corpus-level test-time scaling, improving retrieval by +8% (short-form) and +2% (open-ended).

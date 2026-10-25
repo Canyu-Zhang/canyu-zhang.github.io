@@ -26,7 +26,7 @@ nav_order: 1
 <div class="pub-entry">
   <a class="pub-title" href="/projects/4_sage/">SAGE: Benchmarking and Improving Retrieval for Deep Research Agents</a>
   <div class="pub-links">[<a href="https://arxiv.org/abs/2602.05975" target="_blank">Paper</a>]</div>
-  <div class="pub-meta">[Preprint] Tiansheng Hu, Yilun Zhao, <strong>Canyu Zhang</strong>, Arman Cohan, Chen Zhao &nbsp;&middot;&nbsp; <em>Under review at ACL ARR 2026</em></div>
+  <div class="pub-meta">[Preprint] Tiansheng Hu, Yilun Zhao, <strong>Canyu Zhang</strong>, Arman Cohan, Chen Zhao &nbsp;&middot;&nbsp; <em>Under review at EACL 2027</em></div>
 </div>
 
 </div>
